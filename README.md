@@ -3,8 +3,10 @@ Center.js is jQuery library to make element center as compared to his outside el
 
 Demo available on http://www.frontendevelopers.com/center/
 
+Add script like this
+
 <pre>
-&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"&gt;&lt;/script&gt;<br />
+&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"&gt;&lt;/script&gt;
 &lt;script type="text/javascript" src="center.js"&gt;&lt;/script&gt;
 </pre>
 
