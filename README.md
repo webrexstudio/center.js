@@ -7,7 +7,7 @@ Add script like this
 
 <pre>
 &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"&gt;&lt;/script&gt;
-&lt;script type="text/javascript" src="center.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="dist/center.js"&gt;&lt;/script&gt;
 </pre>
 
 <h2>1. data-center </h2>
