@@ -1,7 +1,7 @@
 # center.js
 Center.js is jQuery library to make element center as compared to his outside element. It's also work in responsive.
 
-Demo available on http://www.frontendevelopers.com/center/
+Demo available on http://www.webrexstudio.com/center/
 
 Add script like this
 
